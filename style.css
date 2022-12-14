@@ -692,7 +692,7 @@ p {
 
 .cta-hero {
     margin-top: 22px;
-    color: #FFFFFF!important;
+    color: black!important;
     text-transform: uppercase;
     padding: 12px 28px 12px 28px;
     font-size: 16px;
@@ -775,12 +775,12 @@ h4 {
 }
 
 .tc-white {
-    color: #F3976C!important;
+    color: #FFFFFF!important;
 }
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: black!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -1062,4 +1062,37 @@ h4 {
 .title2 {
     width: 360px;
     margin: 0 auto;
+}
+
+.zone__partenaires {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.partenaires {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    margin: 0 auto 25px auto;
+    color: #000000;
+}
+.partenaires li {
+    margin: 0 25px;
+    color: #000000;
+    text-decoration: none;
+}
+
+.partenaires li a {
+    color: black!important;
+}
+
+.black {
+    color: black!important;
+}
+
+.tc-black {
+    color: black!important;
 }
