@@ -1100,3 +1100,7 @@ h4 {
 .fond-noir {
     background-color: #000000;
 }
+
+.p-gros {
+    font-size: 14px;
+}
