@@ -1104,3 +1104,8 @@ h4 {
 .p-gros {
     font-size: 14px;
 }
+
+.gras {
+    font-weight: bold;
+    font-style: italic;
+}
