@@ -1,6 +1,7 @@
 # La panthère : site e-commerce
 ## Objectif du projet
-Projet 4 du parcours Développeur Web Openclassrooms
+Projet 4 du parcours Développeur Web Openclassrooms.
+
 Optimisation de l'accessiblité et du référencement du site de l'agence La Panthère
 
 ## Tester le projet
